@@ -52,7 +52,7 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 - Aprender React para potenciar mis habilidades en desarrollo Front-End.  
 
 ## 🧑🏻‍💻 Lenguajes...  
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow-animate.svg)
 
 ---
 
