@@ -32,13 +32,13 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 
 ### Lenguajes  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks y Herramientas  
-[Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-back?logo=nodedotjs&logoColor=rgb(129%2C205%2C54)&labelColor=rgb(50%2C51%2C48)&color=rgb(129%2C205%2C54))
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,7 +51,6 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 - Diseñar y construir un portfolio profesional para destacar mis proyectos.  
 - Aprender React para potenciar mis habilidades en desarrollo Front-End.  
 
-## 🧑🏻‍💻 Lenguajes...  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
