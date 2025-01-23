@@ -60,3 +60,4 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nkaminski-profile/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicokaminski89@gmail.com)  
+ 
