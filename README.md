@@ -31,17 +31,19 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 ## ⚡ Tecnologías que uso  
 
 ### Lenguajes  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-white?logo=coffeescript&labelColor=rgb(91%2C136%2C165)&color=rgb(249%2C155%2C41)%20)
+![Static Badge](https://img.shields.io/badge/HTML-white?logo=html5&labelColor=rgb(50%2C51%2C48)&color=rgb(226%2C79%2C38))
+![Static Badge](https://img.shields.io/badge/CSS-white?logo=css3&labelColor=rgb(37%2C102%2C178)&color=rgb(64%2C159%2C217))
+![Static Badge](https://img.shields.io/badge/JavaScript-white?logo=javascript&labelColor=rgb(50%2C51%2C48)&color=rgb(247%2C223%2C30))
+![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=white&labelColor=rgb(50%2C51%2C48)&color=rgb(21%2C125%2C206))
 
 ### Frameworks y Herramientas  
 ![Static Badge](https://img.shields.io/badge/Node.js-back?logo=nodedotjs&logoColor=rgb(129%2C205%2C54)&labelColor=rgb(50%2C51%2C48)&color=rgb(129%2C205%2C54))
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Postman-white?logo=postman&logoColor=rgb(252%2C165%2C95)&labelColor=rgb(50%2C51%2C48)&color=rgb(252%2C165%2C95))
+![Static Badge](https://img.shields.io/badge/NPM-white?logo=npm&logoColor=rgb(203%2C70%2C33)&labelColor=rgb(50%2C51%2C48)&color=rgb(203%2C70%2C33))
+![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=rgb(11%2C114%2C149)&labelColor=%23ffffff&color=rgb(11%2C114%2C149))
+![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma&labelColor=rgb(50%2C51%2C48)&color=rgb(248%2C115%2C102))
+
 
 ---
 
