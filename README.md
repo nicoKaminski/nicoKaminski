@@ -1,6 +1,6 @@
 # <img src="./images/avatar.png" width=10% align=right /> Hola! Mi nombre es Nicolás  
 
-<a><img src="./images/bannerD.jpeg" borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'></a>
+<a><img src="./images/bannerD.jpg" borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'></a>
 
 ---
 
