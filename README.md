@@ -38,9 +38,9 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=white&color=%233178C6)
 
 ### Frameworks y Herramientas  
-![Static Badge](https://img.shields.io/badge/Node.js-back?logo=nodedotjs&logoColor=rgb(129%2C205%2C54)&labelColor=rgb(2A313C)&color=rgb(129%2C205%2C54))
+![Static Badge](https://img.shields.io/badge/Node.js-back?logo=nodedotjs&logoColor=rgb(129%2C205%2C54)&labelColor=rgb(50%2C51%2C48)&color=rgb(129%2C205%2C54))
 ![Static Badge](https://img.shields.io/badge/Postman-white?logo=postman&labelColor=rgb(50%2C51%2C48)&color=%23DD3A0A)
-![Static Badge](https://img.shields.io/badge/NPM-white?logo=npm&logoColor=rgb(203%2C70%2C33)&labelColor=rgb(2A313C)&color=rgb(203%2C70%2C33))
+![Static Badge](https://img.shields.io/badge/NPM-white?logo=npm&logoColor=rgb(203%2C70%2C33)&labelColor=rgb(50%2C51%2C48)&color=rgb(203%2C70%2C33))
 ![Static Badge](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=rgb(11%2C114%2C149)&labelColor=%23ffffff&color=rgb(11%2C114%2C149))
 ![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma&labelColor=2A313C&color=F25425)
 
@@ -61,6 +61,4 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 
 ## 🌐 Contacto  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nkaminski-profile/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicokaminski89@gmail.com)  
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nkaminski-profile/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicokaminski89@gmail.com)
