@@ -23,7 +23,7 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 - **[Machete C++](https://github.com/nicoKaminski/Cplusplus-Usos)**  
   _Ejemplos y usos de C++ que abarcan diferentes conceptos, desarrollados para estudiar y practicar los fundamentos del lenguaje C++.._
   
-- **[Otros Proyectos](https://github.com/nicoKaminski)**  
+- **[Otros Proyectos](https://github.com/nicoKaminski?tab=repositories)**  
   _Descubre más trabajos en mi perfil de GitHub._
 
 ---
