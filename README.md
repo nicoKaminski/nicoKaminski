@@ -36,6 +36,7 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 ![Static Badge](https://img.shields.io/badge/CSS-white?logo=css3&labelColor=rgb(37%2C102%2C178)&color=rgb(64%2C159%2C217))
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?logo=javascript&labelColor=rgb(50%2C51%2C48)&color=rgb(247%2C223%2C30))
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=white&color=%233178C6)
+![Static Badge](https://img.shields.io/badge/React-white?logo=react&logoColor=%2361DAFB&labelColor=rgb(50%2C51%2C48)&color=%2361DAFB)
 
 ### Frameworks y Herramientas  
 ![Static Badge](https://img.shields.io/badge/Git-w?logo=git&labelColor=353634&color=%23F05032)
