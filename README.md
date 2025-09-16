@@ -6,9 +6,9 @@
 
 ## 🎯 Sobre mí
 
-Soy estudiante avanzado de programación, cursando el último cuatrimestre de mi carrera universitaria. Con más de 2 años de formación y experiencia en proyectos, estoy enfocado en especializarme en el desarrollo Front-End y en complementar mis conocimientos.
+Técnico Universitario en Desarrollo de Software con +2 años de experiencia en proyectos. Mi especialización principal es el **desarrollo Front-End**, complementado con habilidades en TypeScript, Node.js y Express.
 
-Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tecnologías, siempre estoy abierto a aprender y asumir nuevos desafíos que impulsen mi crecimiento profesional.
+Me gusta construir aplicaciones funcionales y visualmente atractivas, integrando principios de **UX/UI y diseño**. Siempre busco aprender, resolver problemas de forma creativa y sumarme a proyectos desafiantes.
 
 ---
 
@@ -22,7 +22,7 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 
 - **[Machete C++](https://github.com/nicoKaminski/Cplusplus-Usos)**  
   _Ejemplos y usos de C++ que abarcan diferentes conceptos, desarrollados para estudiar y practicar los fundamentos del lenguaje C++.._
-- **[Otros Proyectos](https://github.com/nicoKaminski)**  
+- **[Otros Proyectos](https://github.com/nicoKaminski?tab=repositories)**  
   _Descubre más trabajos en mi perfil de GitHub._
 
 ---
@@ -39,14 +39,26 @@ Me gusta crear aplicaciones funcionales y atractivas, combinando diseño con tec
 
 ### Frameworks y Herramientas
 
+![Static Badge](<https://img.shields.io/badge/React-white?logo=react&logoColor=%2361DAFB&labelColor=rgb(50%2C51%2C48)&color=%2361DAFB>)
 ![Static Badge](https://img.shields.io/badge/Git-w?logo=git&labelColor=353634&color=%23F05032)
+![Static Badge](<https://img.shields.io/badge/NPM-white?logo=npm&logoColor=rgb(203%2C70%2C33)&labelColor=rgb(50%2C51%2C48)&color=rgb(203%2C70%2C33)>)
 ![Static Badge](<https://img.shields.io/badge/Node.js-back?logo=nodedotjs&logoColor=rgb(129%2C205%2C54)&labelColor=rgb(50%2C51%2C48)&color=rgb(129%2C205%2C54)>)
+![Static Badge](<https://img.shields.io/badge/Express.js-white?logo=Express&labelColor=rgb(50%2C51%2C48)&color=black>)
+![Static Badge](<https://img.shields.io/badge/TypeORM-white?logo=typeorm&logoColor=white&labelColor=rgb(50%2C51%2C48)&color=%23E52500>)
+![Static Badge](<https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=rgb(11%2C114%2C149)&labelColor=%23ffffff&color=rgb(11%2C114%2C149)>)
 ![Static Badge](<https://img.shields.io/badge/Postman-white?logo=postman&labelColor=rgb(50%2C51%2C48)&color=%23DD3A0A>)
 ![Static Badge](https://img.shields.io/badge/Jira-w?logo=jira&labelColor=353634&color=%230052CC)
-![Static Badge](<https://img.shields.io/badge/NPM-white?logo=npm&logoColor=rgb(203%2C70%2C33)&labelColor=rgb(50%2C51%2C48)&color=rgb(203%2C70%2C33)>)
-![Static Badge](<https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=rgb(11%2C114%2C149)&labelColor=%23ffffff&color=rgb(11%2C114%2C149)>)
 ![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma&labelColor=2A313C&color=F25425)
+![Static Badge](https://img.shields.io/badge/Illustrator-white?logo=airbrake&logoColor=white&labelColor=2A313C&color=%23FF9A00)
 ![Static Badge](https://img.shields.io/badge/WordPress-w?logo=wordpress&labelColor=353634&color=%2321759B)
+
+### Otros Conocimientos y Conceptos
+
+- Programación Orientada a Objetos (POO)
+- Metodologías Ágiles
+- Consumo e implementación de APIs RESTful
+- Responsive Design
+- Control de versiones
 
 ---
 
