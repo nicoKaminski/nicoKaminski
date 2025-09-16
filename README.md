@@ -1,4 +1,6 @@
-# <img src="./images/avatar.png" width=10% align=right /> Hola! Mi nombre es Nicolás
+# <img src="./images/avatar.png" width=10% align=right /> ¡Hola! Soy Nicolás 👋
+
+### Front-End Developer | React | JavaScript | TypeScript
 
 <a><img src="./images/bannerDgreen.jpg" borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'></a>
 
@@ -54,22 +56,23 @@ Me gusta construir aplicaciones funcionales y visualmente atractivas, integrando
 
 ### Otros Conocimientos y Conceptos
 
-- Programación Orientada a Objetos (POO)
-- Metodologías Ágiles
-- Consumo e implementación de APIs RESTful
-- Responsive Design
-- Control de versiones
+- **Programación Orientada a Objetos (POO)** en Java y TypeScript
+- **Metodologías Ágiles** (Scrum, trabajo en equipo, gestión con Jira/Trello)
+- **APIs RESTful**: diseño, consumo e integración en proyectos web
+- **Responsive Design** y buenas prácticas de UX/UI
+- **Control de versiones con Git/GitHub** y flujos de trabajo colaborativos
 
 ---
 
 ## 🚀 Trabajando en...
 
-- **Último cuatrimestre de la carrera universitaria** para obtener mi título.
-- Diseñar y construir un portfolio profesional para destacar mis proyectos.
-- Aprender React para potenciar mis habilidades en desarrollo Front-End.
+- Recién recibido como **Técnico Universitario en Desarrollo de Software** 🎓
+- Enfocado en el **desarrollo Front-End con React, JavaScript y TypeScript**
+- Complemento mis proyectos con conocimientos en **Node.js, Express y bases de datos MySQL**
+- Desarrollo aplicaciones web y de escritorio aplicando **buenas prácticas y metodologías ágiles**
+- Siempre en búsqueda de **oportunidades y nuevos desafíos** para seguir creciendo profesionalmente
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-![Snake animation](https://raw.githubusercontent.com/nicoKaminski/nicoKaminski/output/github-contribution-grid-snake.svg)
 
 ---
 
