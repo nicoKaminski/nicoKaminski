@@ -72,7 +72,7 @@ Me gusta construir aplicaciones funcionales y visualmente atractivas, integrando
 - Desarrollo aplicaciones web y de escritorio aplicando **buenas prácticas y metodologías ágiles**
 - Siempre en búsqueda de **oportunidades y nuevos desafíos** para seguir creciendo profesionalmente
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg?v=1)
 
 ---
 
