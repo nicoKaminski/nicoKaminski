@@ -49,6 +49,7 @@ Me gusta construir aplicaciones funcionales y visualmente atractivas, integrando
 ![Static Badge](<https://img.shields.io/badge/TypeORM-white?logo=typeorm&logoColor=white&labelColor=rgb(50%2C51%2C48)&color=%23E52500>)
 ![Static Badge](<https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=rgb(11%2C114%2C149)&labelColor=%23ffffff&color=rgb(11%2C114%2C149)>)
 ![Static Badge](<https://img.shields.io/badge/Postman-white?logo=postman&labelColor=rgb(50%2C51%2C48)&color=%23DD3A0A>)
+![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=2496ED&color=white)
 ![Static Badge](https://img.shields.io/badge/Jira-w?logo=jira&labelColor=353634&color=%230052CC)
 ![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma&labelColor=2A313C&color=F25425)
 ![Static Badge](https://img.shields.io/badge/Illustrator-white?logo=airbrake&logoColor=white&labelColor=2A313C&color=%23FF9A00)
@@ -73,6 +74,8 @@ Me gusta construir aplicaciones funcionales y visualmente atractivas, integrando
 - Siempre en búsqueda de **oportunidades y nuevos desafíos** para seguir creciendo profesionalmente
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg?v=1)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoKaminski&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
