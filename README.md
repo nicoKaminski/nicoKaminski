@@ -8,13 +8,16 @@
 
 ## 🎯 Sobre mí
 
-Técnico Universitario en Desarrollo de Software con +2 años de experiencia en proyectos. Mi especialización principal es el **desarrollo Front-End**, complementado con habilidades en TypeScript, Node.js y Express.
+Técnico Universitario en Desarrollo de Software con +3 años de experiencia en proyectos. Mi especialización principal es el **desarrollo Front-End**, la cual potencio con sólidos conocimientos en **Back-End** (Node.js, Express y Java) para tener una visión integral del ciclo de vida del software.
 
-Me gusta construir aplicaciones funcionales y visualmente atractivas, integrando principios de **UX/UI y diseño**. Siempre busco aprender, resolver problemas de forma creativa y sumarme a proyectos desafiantes.
+Me gusta el equilibrio entre un código eficiente y un diseño centrado en el usuario, integrando principios de **UX/UI**. Siempre busco aprender, resolver problemas de forma creativa y sumarme a proyectos que desafíen mis habilidades técnicas.
 
 ---
 
 ## 📂 Proyectos Destacados
+
+- **[GeClau - Gestión de Clases y Aulas](https://grupo6solutions.github.io/website/)**  
+  _Sistema profesional desarrollado para la UTN Mar del Plata para automatizar la asignación de espacios y gestión de horarios.. (Actualmente operativo en la facultad)._
 
 - **[MemoPotter](https://github.com/nicoKaminski/Memo-Potter)**  
   _Juego interactivo de memoria (tipo memotest) desarrollado con Node.js, APIs REST y tecnologías modernas._
@@ -22,8 +25,6 @@ Me gusta construir aplicaciones funcionales y visualmente atractivas, integrando
 - **[Universidad](https://github.com/nicoKaminski/universidad)**  
   _Sistema CRUD para la gestión de estudiantes y cursos, implementado con Node.js, Express y MySQL._
 
-- **[Machete C++](https://github.com/nicoKaminski/Cplusplus-Usos)**  
-  _Ejemplos y usos de C++ que abarcan diferentes conceptos, desarrollados para estudiar y practicar los fundamentos del lenguaje C++.._
 - **[Otros Proyectos](https://github.com/nicoKaminski?tab=repositories)**  
   _Descubre más trabajos en mi perfil de GitHub._
 
@@ -68,10 +69,13 @@ Me gusta construir aplicaciones funcionales y visualmente atractivas, integrando
 ## 🚀 Trabajando en...
 
 - Recién recibido como **Técnico Universitario en Desarrollo de Software** 🎓
-- Enfocado en el **desarrollo Front-End con React, JavaScript y TypeScript**
+- Enfocado en el **desarrollo Front-End** Profundizando en el ecosistema de **React** y **TypeScript** para aplicaciones escalables.
 - Complemento mis proyectos con conocimientos en **Node.js, Express y bases de datos MySQL**
 - Desarrollo aplicaciones web y de escritorio aplicando **buenas prácticas y metodologías ágiles**
 - Siempre en búsqueda de **oportunidades y nuevos desafíos** para seguir creciendo profesionalmente
+- **GeClau:** Planeando futuras expansiones con funciones avanzadas y asistencia mediante IA.
+
+---
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg?v=1)
 
