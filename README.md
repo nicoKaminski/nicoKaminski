@@ -8,9 +8,9 @@
 
 ## 🎯 Sobre mí
 
-Técnico Universitario en Desarrollo de Software con +3 años de experiencia en proyectos. Mi especialización principal es el **desarrollo Front-End**, la cual potencio con sólidos conocimientos en **Back-End** (Node.js, Express y Java) para tener una visión integral del ciclo de vida del software.
+Soy un Técnico Universitario en Desarrollo de Software de Argentina con más de 3 años de experiencia. Mi especialidad principal es el desarrollo Front-End con React y TypeScript, enfocado en crear interfaces modernas y de alta fidelidad. 
 
-Me gusta el equilibrio entre un código eficiente y un diseño centrado en el usuario, integrando principios de **UX/UI**. Siempre busco aprender, resolver problemas de forma creativa y sumarme a proyectos que desafíen mis habilidades técnicas.
+Para tener una visión integral del ciclo de vida del software, complemento mi perfil con sólidos conocimientos en Back-End, desarrollando soluciones con Node.js, Next.js, Express y Java. Cuento con experiencia práctica manejando bases de datos relacionales (PostgreSQL, MariaDB, MySQL) y herramientas esenciales de infraestructura y versionado como Docker y Git.
 
 ---
 
