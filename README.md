@@ -1,8 +1,10 @@
-<img src="./images/avatar.png" width="10%" align="right" /> ¡Hola! Soy Nicolás 👋
+¡Hola! Soy Nicolás 👋
+
+<img src="./images/avatar.png" width="10%" align="right" />
 
 ### Front-End Developer | React | JavaScript | TypeScript
 
-<a><img src="./images/bannerD.jpg" borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'></a>
+<a><img src="./images/banner.png" borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'></a>
 
 ---
 
