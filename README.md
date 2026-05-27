@@ -21,6 +21,9 @@ Para tener una visión integral del ciclo de vida del software, complemento mi p
 - **[GeClau - Gestión de Clases y Aulas](https://grupo6solutions.github.io/website/)**  
   _Sistema profesional desarrollado para la UTN Mar del Plata para automatizar la asignación de espacios y gestión de horarios.. (Actualmente operativo en la facultad)._
 
+- **[Horas Claras](https://github.com/nicoKaminski/horas-claras)**  
+  _Mini app interna para registrar horas de trabajo, revisar pendientes y controlar la carga en Jira. Desarrollada con Next.js, TypeScript, Supabase Auth, PostgreSQL, RLS y deploy en Vercel._
+
 - **[MemoPotter](https://github.com/nicoKaminski/Memo-Potter)**  
   _Juego interactivo de memoria (tipo memotest) desarrollado con Node.js, APIs REST y tecnologías modernas._
 
@@ -45,14 +48,18 @@ Para tener una visión integral del ciclo de vida del software, complemento mi p
 ### Frameworks y Herramientas
 
 ![Static Badge](<https://img.shields.io/badge/React-white?logo=react&logoColor=%2361DAFB&labelColor=rgb(50%2C51%2C48)&color=%2361DAFB>)
-![Static Badge](https://img.shields.io/badge/Git-w?logo=git&labelColor=353634&color=%23F05032)
-![Static Badge](<https://img.shields.io/badge/NPM-white?logo=npm&logoColor=rgb(203%2C70%2C33)&labelColor=rgb(50%2C51%2C48)&color=rgb(203%2C70%2C33)>)
+![Static Badge](https://img.shields.io/badge/Next.js-white?logo=nextdotjs&logoColor=white&labelColor=000000&color=000000)
 ![Static Badge](<https://img.shields.io/badge/Node.js-back?logo=nodedotjs&logoColor=rgb(129%2C205%2C54)&labelColor=rgb(50%2C51%2C48)&color=rgb(129%2C205%2C54)>)
 ![Static Badge](<https://img.shields.io/badge/Express.js-white?logo=Express&labelColor=rgb(50%2C51%2C48)&color=black>)
 ![Static Badge](<https://img.shields.io/badge/TypeORM-white?logo=typeorm&logoColor=white&labelColor=rgb(50%2C51%2C48)&color=%23E52500>)
 ![Static Badge](<https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=rgb(11%2C114%2C149)&labelColor=%23ffffff&color=rgb(11%2C114%2C149)>)
-![Static Badge](<https://img.shields.io/badge/Postman-white?logo=postman&labelColor=rgb(50%2C51%2C48)&color=%23DD3A0A>)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=white&labelColor=4169E1&color=4169E1)
+![Static Badge](https://img.shields.io/badge/Supabase-white?logo=supabase&logoColor=white&labelColor=3ECF8E&color=3ECF8E)
+![Static Badge](https://img.shields.io/badge/Git-w?logo=git&labelColor=353634&color=%23F05032)
+![Static Badge](<https://img.shields.io/badge/NPM-white?logo=npm&logoColor=rgb(203%2C70%2C33)&labelColor=rgb(50%2C51%2C48)&color=rgb(203%2C70%2C33)>)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=2496ED&color=white)
+![Static Badge](https://img.shields.io/badge/Vercel-white?logo=vercel&logoColor=white&labelColor=000000&color=000000)
+![Static Badge](<https://img.shields.io/badge/Postman-white?logo=postman&labelColor=rgb(50%2C51%2C48)&color=%23DD3A0A>)
 ![Static Badge](https://img.shields.io/badge/Jira-w?logo=jira&labelColor=353634&color=%230052CC)
 ![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma&labelColor=2A313C&color=F25425)
 ![Static Badge](https://img.shields.io/badge/Illustrator-white?logo=airbrake&logoColor=white&labelColor=2A313C&color=%23FF9A00)
@@ -71,11 +78,12 @@ Para tener una visión integral del ciclo de vida del software, complemento mi p
 ## 🚀 Trabajando en...
 
 - Recién recibido como **Técnico Universitario en Desarrollo de Software** 🎓
-- Enfocado en el **desarrollo Front-End** Profundizando en el ecosistema de **React** y **TypeScript** para aplicaciones escalables.
+- **GeClau:** Planeando futuras expansiones con funciones avanzadas y asistencia mediante IA.
+- Enfocado en el desarrollo de aplicaciones web con **React, Next.js y TypeScript**.
+- Construyendo proyectos full-stack con **Supabase, PostgreSQL, autenticación, permisos y despliegue en Vercel**.
 - Complemento mis proyectos con conocimientos en **Node.js, Express y bases de datos MySQL**
 - Desarrollo aplicaciones web y de escritorio aplicando **buenas prácticas y metodologías ágiles**
 - Siempre en búsqueda de **oportunidades y nuevos desafíos** para seguir creciendo profesionalmente
-- **GeClau:** Planeando futuras expansiones con funciones avanzadas y asistencia mediante IA.
 
 ---
 
