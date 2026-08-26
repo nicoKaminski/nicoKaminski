@@ -2,7 +2,7 @@
 
 <img src="./images/avatar.png" alt="Avatar de Nico Kaminski" width="10%" align="right" />
 
-### Desarrollador de software full stack con enfoque en frontend | React | TypeScript | Next.js | Node.js
+### Desarrollador de software full stack con enfoque en frontend
 
 <img src="./images/banner.png" alt="Banner de Nico Kaminski" width="100%" />
 
