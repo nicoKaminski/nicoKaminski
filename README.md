@@ -109,5 +109,5 @@ La **IA forma parte de mi proceso como herramienta de apoyo** para investigar, a
 
 ## 🌐 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-w?logo=inspire&logoColor=white&labelColor=007AB5&color=007AB5)](https://www.linkedin.com/in/nkaminski-profile/) [![Email](https://img.shields.io/badge/eMail-w?logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335)](mailto:nicokaminski89@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-134670?logo=ntfy&logoColor=white)](https://nicokaminski.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-w?logo=inspire&logoColor=white&labelColor=007AB5&color=007AB5)](https://www.linkedin.com/in/nkaminski-profile/) [![Contacto](https://img.shields.io/badge/Contacto-w?logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335)](https://nicokaminski.com/#contacto)
+[![Portfolio](https://img.shields.io/badge/Portfolio-134670?logo=ntfy&logoColor=white)](https://nicokaminski.com/)
