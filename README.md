@@ -24,29 +24,35 @@ La **IA forma parte de mi proceso como herramienta de apoyo** para investigar, a
 
 ## 📂 Proyectos Destacados
 
-- **[GeClau - Gestión de Clases y Aulas](https://grupo6s.com/)**
+- **GeClau - Gestión de Clases y Aulas** ([Repo](https://github.com/nicoKaminski/utn-horarios-aulas-ui) | [Despliegue](https://grupo6s.com/proyectos/geclau/))
   _Sistema de gestión académica desarrollado en equipo para resolver la organización de aulas, horarios y clases en UTN Mar del Plata._
 
   _Mi participación incluye frontend, UX/UI, análisis funcional, integración y contribuciones backend. Actualmente se encuentra implementado y continúa evolucionando._
 
-- **[Horas Claras](https://horas-claras.vercel.app/)**
+- **Horas Claras** ([Repo](https://github.com/nicoKaminski/horas-claras) | [Despliegue](https://horas-claras.vercel.app/))
   _Aplicación web para registrar horas de trabajo, revisar pendientes y controlar la carga en Jira. Desarrollada con Next.js, React, TypeScript, Supabase Auth, PostgreSQL y Row Level Security._
 
-- **[BitiCraft](https://biticraft.vercel.app/)**
+- **BitiCraft** ([Repo](https://github.com/nicoKaminski/biticraft) | [Despliegue](https://biticraft.vercel.app/))
   _Experiencia web para un emprendimiento de productos artesanales, combinando identidad visual, UX/UI y desarrollo. Desarrollada con Next.js, React y TypeScript. (proximamente integrado con Shopify)_
 
-- **[TRACAM](https://tracam.grupo6s.com/login)**
+- **TRACAM** ([Repo](https://github.com/grupo6solutions/tracam-ui) | [Despliegue](https://grupo6s.com/proyectos/tracam/))
   _MVP de una aplicación web para centralizar la gestión operativa y trazabilidad de viajes de camiones. Desarrollo full stack con React, TypeScript, NestJS y PostgreSQL._
 
 ## 🧪 Otros proyectos
 
-- **[MemoPotter](https://github.com/nicoKaminski/Memo-Potter)**
+- **Portfolio Personal** ([Repo](https://github.com/nicoKaminski/portfolio) | [Despliegue](https://nicokaminski.com/))
+  _Portfolio profesional desarrollado con Next.js y TypeScript para presentar proyectos, criterio de producto y una construcción de software centrada en la experiencia de usuario._
+
+- **MemoWars** ([Repo](https://github.com/nicoKaminski/memo-wars) | [Despliegue](https://nicokaminski.github.io/memo-wars/))
+  _Práctica de juego de memoria con temática de Star Wars, desarrollado con HTML, CSS y JavaScript puro._
+
+- **MemoPotter** ([Repo](https://github.com/nicoKaminski/Memo-Potter) | [Despliegue](https://memo-potter.vercel.app/))
   _Proyecto académico de un juego de memoria desarrollado con JavaScript, Node.js y Express, utilizando una API externa._
 
-- **[Universidad](https://github.com/nicoKaminski/universidad)**
+- **Universidad** ([Repo](https://github.com/nicoKaminski/universidad))
   _Proyecto académico de gestión universitaria desarrollado con Node.js, Express y TypeScript._
 
-- **[Repos](https://github.com/nicoKaminski?tab=repositories)**
+- **[Ver todos mis repositorios](https://github.com/nicoKaminski?tab=repositories)**
   _Podés encontrar más proyectos, prácticas y trabajos académicos en mis repositorios._
 
 ## ⚡ Stack principal
