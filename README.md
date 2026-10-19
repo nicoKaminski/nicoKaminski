@@ -4,7 +4,7 @@
 
 ### Desarrollador de software full stack con enfoque en frontend
 
-<img src="./images/banner.png" alt="Banner de Nico Kaminski" width="100%" />
+<img src="./images/BannerGitHub.png" alt="Banner de Nico Kaminski" width="100%" />
 
 ## 🎯 Sobre mí
 
