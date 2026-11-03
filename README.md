@@ -24,7 +24,7 @@ La **IA forma parte de mi proceso como herramienta de apoyo** para investigar, a
 
 ## 📂 Proyectos Destacados
 
-- **GeClau - Gestión de Clases y Aulas** ([Repo](https://github.com/nicoKaminski/utn-horarios-aulas-ui) | [Despliegue](https://grupo6s.com/proyectos/geclau/))
+- **GeClau - Gestión de Clases y Aulas** ([Repo](https://github.com/nicoKaminski/utn-horarios-aulas-ui) | [Despliegue](https://aulas.mdp.utn.edu.ar/))
   _Sistema de gestión académica desarrollado en equipo para resolver la organización de aulas, horarios y clases en UTN Mar del Plata._
 
   _Mi participación incluye frontend, UX/UI, análisis funcional, integración y contribuciones backend. Actualmente se encuentra implementado y continúa evolucionando._
@@ -32,7 +32,7 @@ La **IA forma parte de mi proceso como herramienta de apoyo** para investigar, a
 - **Horas Claras** ([Repo](https://github.com/nicoKaminski/horas-claras) | [Despliegue](https://horas-claras.vercel.app/))
   _Aplicación web para registrar horas de trabajo, revisar pendientes y controlar la carga en Jira. Desarrollada con Next.js, React, TypeScript, Supabase Auth, PostgreSQL y Row Level Security._
 
-- **BitiCraft** ([Repo](https://github.com/nicoKaminski/biticraft) | [Despliegue](https://biticraft.vercel.app/))
+- **BitiCraft** ([Repo](https://github.com/nicoKaminski/biticraft) | [Despliegue](https://biticraft.com/))
   _Experiencia web para un emprendimiento de productos artesanales, combinando identidad visual, UX/UI y desarrollo. Desarrollada con Next.js, React y TypeScript. (proximamente integrado con Shopify)_
 
 - **TRACAM** ([Repo](https://github.com/grupo6solutions/tracam-ui) | [Despliegue](https://grupo6s.com/proyectos/tracam/))
