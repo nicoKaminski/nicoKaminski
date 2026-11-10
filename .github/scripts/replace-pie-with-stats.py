@@ -144,6 +144,33 @@ def local_name(tag):
     return tag.rsplit("}", 1)[-1] if isinstance(tag, str) else ""
 
 
+def recolor_radar(root):
+    styles = [element for element in root if local_name(element.tag) == "style"]
+    if len(styles) != 1:
+        raise RuntimeError(
+            f"Expected one SVG style block, found {len(styles)}; SVG left unchanged"
+        )
+
+    css = styles[0].text or ""
+    radar_rules = list(re.finditer(r"\.radar\s*\{[^}]*\}", css, flags=re.DOTALL))
+    if len(radar_rules) != 1:
+        raise RuntimeError(
+            f"Expected one radar color rule, found {len(radar_rules)}; SVG left unchanged"
+        )
+
+    css, replacements = re.subn(
+        r"\.radar\s*\{[^}]*\}",
+        ".radar {\nstroke-width: 2px;\nstroke: #10698C;\n"
+        "fill: #02F1B6;\nfill-opacity: 0.22;\n}",
+        css,
+        count=1,
+        flags=re.DOTALL,
+    )
+    if replacements != 1:
+        raise RuntimeError("Could not update radar colors; SVG left unchanged")
+    styles[0].text = css
+
+
 def find_language_pie(root):
     width = float(root.get("width", "0").replace("px", ""))
     height = float(root.get("height", "0").replace("px", ""))
@@ -238,7 +265,7 @@ def make_stats_panel(x, y, stats):
         add_text(54, baseline, label, 18, "#E1ECEE")
         add_text(290, baseline, f"{value:,}", 18, "#E1ECEE")
 
-    ET.SubElement(group, tag("circle"), {"cx": "415", "cy": "158", "r": "46", "fill": "#228DAF"})
+    ET.SubElement(group, tag("circle"), {"cx": "415", "cy": "158", "r": "46", "fill": "#02F1B6"})
     ET.SubElement(
         group,
         tag("path"),
@@ -257,7 +284,7 @@ def make_stats_panel(x, y, stats):
                 "1.25.86.313.452.64.655 1.031.655s.641-.14 1-.5c.266-.265.47-.5.657-.656"
             ),
             "transform": "translate(376, 119) scale(4.9)",
-            "fill": "#0D1117",
+            "fill": "#10698C",
         },
     )
     return group
@@ -280,6 +307,7 @@ def main():
     if local_name(root.tag) != "svg" or root.tag != f"{{{SVG_NS}}}svg":
         raise RuntimeError("Generated file is not an SVG document")
 
+    recolor_radar(root)
     index, pie, x, y = find_language_pie(root)
     footer = find_footer(root)
     root.remove(pie)
