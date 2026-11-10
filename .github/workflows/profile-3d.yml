@@ -17,6 +17,30 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Set night rainbow background
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path("profile-3d-contrib/profile-night-rainbow.svg")
+          content = path.read_bytes()
+          replacements = (
+              (b".fill-bg { fill: #00000f; }", b".fill-bg { fill: #0D1117; }"),
+              (b".stroke-bg { stroke: #00000f; }", b".stroke-bg { stroke: #0D1117; }"),
+          )
+
+          for original, replacement in replacements:
+              if content.count(original) != 1:
+                  raise SystemExit(f"Expected exactly one {original.decode()}, found {content.count(original)}")
+              content = content.replace(original, replacement, 1)
+
+          path.write_bytes(content)
+          PY
+      - name: Replace language pie with GitHub stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python3 .github/scripts/replace-pie-with-stats.py
       - name: Commit & Push
         run: |
           git config user.name github-actions

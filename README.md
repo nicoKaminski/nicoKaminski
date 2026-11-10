@@ -109,9 +109,9 @@ La **IA forma parte de mi proceso como herramienta de apoyo** para investigar, a
 - Sigo desarrollando proyectos y profundizando mis conocimientos en desarrollo web full stack, aplicando **buenas prácticas y metodologías ágiles**.
 - Siempre en búsqueda de **oportunidades y nuevos desafíos** para seguir creciendo profesionalmente.
 
-![Gráfico de contribuciones de GitHub](./profile-3d-contrib/profile-night-rainbow.svg?v=1)
+## 📊 Actividad en GitHub
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoKaminski&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+![Gráfico de contribuciones de GitHub](./profile-3d-contrib/profile-night-rainbow.svg?v=1)
 
 ## 🌐 Contacto
 
