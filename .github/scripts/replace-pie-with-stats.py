@@ -200,7 +200,7 @@ def make_stats_panel(x, y, stats):
             "x": "0",
             "y": "0",
             "width": "540",
-            "height": "300",
+            "height": "280",
             "rx": "8",
             "fill": "#0D1117",
             "stroke": "#254A65",
@@ -284,7 +284,7 @@ def main():
     footer = find_footer(root)
     root.remove(pie)
     root.remove(footer)
-    root.insert(index, make_stats_panel(x, y, stats))
+    root.insert(index, make_stats_panel(x, y + 20, stats))
     output = ET.tostring(root, encoding="utf-8", xml_declaration=True)
     SVG_PATH.write_bytes(output)
     print("Replaced the language pie with live GitHub stats in profile-night-rainbow.svg")
