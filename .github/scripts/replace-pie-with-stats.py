@@ -199,7 +199,7 @@ def make_stats_panel(x, y, stats):
         {
             "x": "0",
             "y": "0",
-            "width": "540",
+            "width": "480",
             "height": "280",
             "rx": "8",
             "fill": "#0D1117",
@@ -238,7 +238,7 @@ def make_stats_panel(x, y, stats):
         add_text(54, baseline, label, 18, "#E1ECEE")
         add_text(290, baseline, f"{value:,}", 18, "#E1ECEE")
 
-    ET.SubElement(group, tag("circle"), {"cx": "448", "cy": "158", "r": "46", "fill": "#228DAF"})
+    ET.SubElement(group, tag("circle"), {"cx": "415", "cy": "158", "r": "46", "fill": "#228DAF"})
     ET.SubElement(
         group,
         tag("path"),
@@ -256,7 +256,7 @@ def make_stats_panel(x, y, stats):
                 "-.187-.015-.25-.093-.25-.187 0-.188.313-.328.625-.328.453 0 .844.281 "
                 "1.25.86.313.452.64.655 1.031.655s.641-.14 1-.5c.266-.265.47-.5.657-.656"
             ),
-            "transform": "translate(409, 119) scale(4.9)",
+            "transform": "translate(376, 119) scale(4.9)",
             "fill": "#0D1117",
         },
     )
