@@ -160,7 +160,7 @@ def recolor_radar(root):
 
     css, replacements = re.subn(
         r"\.radar\s*\{[^}]*\}",
-        ".radar {\nstroke-width: 2px;\nstroke: #10698C;\n"
+        ".radar {\nstroke-width: 2px;\nstroke: #02F1B6;\n"
         "fill: #02F1B6;\nfill-opacity: 0.22;\n}",
         css,
         count=1,
@@ -284,7 +284,7 @@ def make_stats_panel(x, y, stats):
                 "1.25.86.313.452.64.655 1.031.655s.641-.14 1-.5c.266-.265.47-.5.657-.656"
             ),
             "transform": "translate(376, 119) scale(4.9)",
-            "fill": "#10698C",
+            "fill": "#1D314A",
         },
     )
     return group

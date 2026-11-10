@@ -111,7 +111,7 @@ La **IA forma parte de mi proceso como herramienta de apoyo** para investigar, a
 
 ## 📊 Actividad en GitHub
 
-![Gráfico de contribuciones de GitHub](./profile-3d-contrib/profile-night-rainbow.svg?v=3)
+![Gráfico de contribuciones de GitHub](./profile-3d-contrib/profile-night-rainbow.svg?v=4)
 
 ## 🌐 Contacto
 
